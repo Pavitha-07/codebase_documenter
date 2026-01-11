@@ -4,3 +4,7 @@ celery
 redis
 python-dotenv
 requests
+gitpython          
+langchain          
+langchain-openai   
+shutil            

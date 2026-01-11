@@ -1,0 +1,9 @@
+backend/generated_docs/
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+backend/cloned_repos/
+.DS_Store
+Thumbs.db
